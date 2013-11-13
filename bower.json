@@ -7,7 +7,8 @@
     "ember": "~>1.2.0-beta.1",
     "ember-data-shim": "1.0.0-beta.3",
     "ember-resolver": "git://github.com/stefanpenner/ember-jj-abrams-resolver.git#master",
-    "d3": "~3.3.9"
+    "d3": "~3.3.9",
+    "lodash": "~2.3.0"
   },
   "resolutions": {
     "ember": "~>1.2.0-beta.1"
